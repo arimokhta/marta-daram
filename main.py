@@ -6,9 +6,9 @@ from telethon.errors import RPCError
 import nest_asyncio
 
 # ✅ دریافت تنظیمات از محیط
-API_ID = int(os.getenv("25928379"))
-API_HASH = os.getenv("771e3464176fb85d60a3e04523fb5b23")
-PHONE = os.getenv("+989397501321")
+API_ID = int(os.getenv(""))
+API_HASH = os.getenv("")
+PHONE = os.getenv("")
 SESSION_NAME = os.getenv("SESSION_NAME", "userbot_session")
 
 # لاگ‌گذاری
